@@ -104,8 +104,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4448108787118275580}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dcbe6ee5897cb4a44befd5badbd11869, type: 3}
+  m_Script: {fileID: 11500000, guid: a7f5202db86ca7d40903b924efaf21d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 4448108787118275582}
-  levelToLoad: 1
